@@ -1,0 +1,9 @@
+
+#gallery figure{
+    display: inline-block;
+    margin: 30px;
+}
+section{
+    text-align: center;
+}
+
